@@ -69,3 +69,7 @@
   <img src="https://raw.githubusercontent.com/bottesterheroku/onedrive-imgs/main/footer.png" />
   <em>made with ❤️ by <a href="https://t.me/DarkPhew">𝓓𝓪𝓻𝓴 𝓟𝓱𝓮𝓸𝓷𝓲𝔁</a></em>
 </div>
+
+### Spotify Playing 🎧
+
+[<img src="https://https://spotify-now-playing-rust-eight.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/2dam38qphq3urbtrwp0po0hub)
